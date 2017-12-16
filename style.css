@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.introduction{
+    background-color: rgb(39, 2, 2) /*#ca2b40*/;
+    color: white;
+    max-height: 2800px;  
+}
+.intro_bhupesh{
+    color: #ca782b;
+    font-size: 65px;
+    font-family: Bungee, cursive;
+}
+.introduction p{
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+}
+.introduction b{
+    font-size: 30px;
+    font-family:Bungee, cursive;
+    color: #ca782b;
+ }
+.introduction img{
+    margin-top: 25px;
+    border-radius: 20px;
+    
+}
+.whatido{
+    background-color: #ca782b;
+    color: white;
+    height: 800px;
+} 
+.projects{
+    background-color: rgb(39, 2, 2)/*#a8ca2b*/;
+    color: white;
+    height: 800px;
+  
+}
+.academics{
+    background-color: #2bcaa2;
+    color: white;
+    height: 800px;
+   
+}
+.contact{
+    background-color: #ca2b75;
+    color: white;
+    height: 800px;
+   
+}
