@@ -8,8 +8,13 @@ body{
     color: white;
     max-height: 2800px;  
 }
-.intro_bhupesh{
+.headerfont{
     color: #ca782b;
+    font-size: 65px;
+    font-family: Bungee, cursive;
+}
+.headerfont_dark{
+    color: rgb(39, 2, 2);
     font-size: 65px;
     font-family: Bungee, cursive;
 }
@@ -27,25 +32,42 @@ body{
     border-radius: 20px;
     
 }
-.whatido{
-    background-color: #ca782b;
-    color: white;
-    height: 800px;
-} 
 .projects{
-    background-color: rgb(39, 2, 2)/*#a8ca2b*/;
+    background-color: #ca782b/*#a8ca2b*/;
     color: white;
-    height: 800px;
-  
+    max-height: 1800px;
+}
+table,th,td{
+    border:#ca782b;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
 }
 .academics{
-    background-color: #2bcaa2;
+    background-color: rgb(39, 2, 2);
     color: white;
     height: 800px;
    
 }
 .contact{
-    background-color: #ca2b75;
+    background-color: #ca782b;
     color: white;
     height: 800px;
    
